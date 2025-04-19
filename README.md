@@ -1,5 +1,8 @@
 # Retail Analytics Dashboard - Executive Insights
 
+▶️ [Open Interactive Version in Tableau Public (Click Me!!)](https://public.tableau.com/views/Tata-OnlineRetail/Story1)
+---
+
 ## Overview
 This is a job stimulator of Tata Group online retail by Forage. This project provides strategic insights for an online retail business, addressing key questions from the CEO and CMO. The analysis focuses on revenue trends, customer segmentation, and market expansion opportunities while overcoming data challenges including missing customer names and 4,000+ unique product descriptions.
 
